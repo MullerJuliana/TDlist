@@ -1,0 +1,72 @@
+.div{
+    text-align: center;
+    position: relative; 
+    top: 40px;
+    /* border: 3px solid black; */
+}
+
+.title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+
+.to-do-container{
+    border: 1.5px solid rgb(190, 190, 190);
+    height: 70px;
+    width: 1420px;
+    
+}
+
+.input{
+    height: 40px;
+    width: 800px;
+    border: 1.5px solid rgb(140, 140, 140);
+    font-size: larger;
+    color: rgb(60, 60, 60);
+    
+}
+
+.plus{
+    height: 40px;
+    width: 45px;
+    font-size: 16px;
+    color: white;
+    background-color: rgb(34, 139, 180);
+    border:  rgb(29, 140, 183); 
+}
+
+.item-container{
+    background-color: rgb(244, 244, 244);
+    position: relative; 
+    top: 30px;
+}
+
+.text{
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative; 
+    top: 5px;
+
+}
+
+.finish{
+    height: 42px;
+    width: 100px;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(46, 192, 68);
+    border:  rgb(72, 220, 94) ;
+    position: relative; left: 585px; bottom: 43px;
+}
+
+.delete{
+    height: 42px;
+    width: 90px;
+    color: white;
+    font-size: 18px;
+    background-color: rgb(237, 50, 50);
+    border:  rgb(220, 72, 72) ;
+    position: relative; 
+    left: 600px; 
+    bottom: 43px;
+}
